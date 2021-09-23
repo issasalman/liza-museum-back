@@ -1,0 +1,64 @@
+[
+    {
+      "name": "Louvre",
+      "location": "Paris, France",
+      "description": "The Louvre, or the Louvre Museum, is the world's second-largest art museum and a historic monument in Paris, France, and is best known for being the home of the Mona Lisa. A central landmark of the city, it is located on the Right Bank of the Seine in the city's 1st arrondissement.",
+      "museum_image": "https://i2.wp.com/paris-black-cars.com/wp-content/uploads/2019/02/louvre-102840_640.jpg?resize=640%2C350&ssl=1",
+      "art_image1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3lELR81_FolCyMCgT0JhQtcW4UINk3fRycQ&usqp=CAU",
+      "description_image1": "The Mona Lisa is a half-length portrait painting by Italian artist Leonardo da Vinci. Considered an archetypal masterpiece of the Italian Renaissance, it has been described as the best known, the most visited, the most written about, the most sung about, the most parodied work of art in the world",
+      "art_image2": "https://i1.wp.com/stepbysteppainting.net/wp-content/uploads/2021/07/Macaw-2.jpg?resize=234%2C300&ssl=1",
+      "description_image2": "asdasdsad",
+      "art_image3": "https://www.artmajeur.com/medias/mini/j/o/jokannan/artwork/13940396_halong-1.jpg",
+      "description_image3": "asdasdasdasasd",
+      "art_image4": "https://www.artmajeur.com/medias/mini/k/h/khanhthebuipaint/artwork/11733764_d.jpg?v=1626077665",
+      "description_image4": "ggdsgsdgsgdsdgsdgsd",
+      "art_image5": "https://www.artmajeur.com/medias/mini/k/a/kaus/artwork/14228975_mk39-1.jpg",
+      "description_image5": "dsgsdsgsdg",
+      "event_description": "seveentdgsdgsdgsd",
+      "event_description_image": "eventssssss",
+      "ticket_price": "100$$ "  
+    },
+
+    {
+        "name": "The Egyptian Museum",
+        "location": "Cairo, Egypt",
+        "description": "erwewr",
+      "museum_image": "https://i2.wp.com/paris-black-cars.com/wp-content/uploads/2019/02/louvre-102840_640.jpg?resize=640%2C350&ssl=1",
+
+        "art_image1": "https://www.artmajeur.com/medias/mini/k/h/khanhthebuipaint/artwork/14564360_411.jpg",
+        "description_image1": "asdasdasdasd",
+        "art_image2": "https://www.artmajeur.com/medias/mini/m/i/michael-kazemi/artwork/13070252_dsc3206.jpg",
+        "description_image2": "ggggggggggg",
+        "art_image3": "https://www.artmajeur.com/medias/mini/b/o/borisek/artwork/14157647_7.jpg",
+        "description_image3": "eeeeeeeeee",
+        "art_image4": "https://www.artmajeur.com/medias/mini/c/h/chantaloupeinture/artwork/6857896_2013-08-02-195811.jpg?v=1627658892",
+        "description_image4": "qqqqqqqqqqqq",
+        "art_image5": "https://www.artmajeur.com/medias/mini/p/a/pascalecoutoux/artwork/12851360_pecheur-vietnamien-aquarelle.jpg",
+        "description_image5": "nnnnnnn",
+        "event_description": "eventfffffff",
+        "event_description_image": "event;llllllllll",
+        "ticket_price": "50$"  
+      },
+
+
+      {
+        "name": "Metropolitan Museum of art",
+        "location": "New York, USA",
+        "description": "Its location in Central Park houses more than 2 million pieces of art spanning much of the history of human culture. The museum is famous as a home of renowned paintings, but it houses much more, including such items as porcelain, musical instruments, historical artifacts, costumes and even armaments.‏",
+        "museum_image": "https://www.expatica.com/app/uploads/sites/6/2014/05/The-10-best-museums-in-Germany-1920x1080.jpg",
+        "art_image1": "https://cdn.britannica.com/78/43678-050-F4DC8D93/Starry-Night-canvas-Vincent-van-Gogh-New-1889.jpg",
+        "description_image1": "Its location in Central Park houses more than 2 million pieces of art spanning much of the history of human culture",
+        "art_image2": "https://afremov.com/var/images/product/1200.1200/image_2622.jpeg",
+        "description_image2": "Its location in Central Park houses more than 2 million pieces of art spanning much of the history of human culture",
+        "art_image3": "https://artist.com/photos/arts/big/blooming-summer-patio-1800160249.jpg",
+        "description_image3": "Its location in Central Park houses more than 2 million pieces of art spanning much of the history of human culture",
+        "art_image4": "https://cdn.galleriesnow.net/wp-content/uploads/2019/12/Old-Master-Paintings-Dorotheum.jpg",
+        "description_image4": "Its location in Central Park houses more than 2 million pieces of art spanning much of the history of human culture",
+        "art_image5": "https://www.irishtimes.com/polopoly_fs/1.4481339.1612978819!/image/image.jpg_gen/derivatives/ratio_16x9_w1200/image.jpg",
+        "description_image5": "Its location in Central Park houses more than 2 million pieces of art spanning much of the history of human culture",
+        "event_description": "Its location in Central Park houses more than 2 million pieces of art spanning much of the history of human culture.",
+        "event_description_image": "https://www.cincinnatiartmuseum.org/media/30352/collections_callout.jpg",
+        "ticket_price": "100$"  
+      }
+
+  ]

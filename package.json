@@ -1,0 +1,28 @@
+{
+  "name": "museum-backend",
+  "version": "1.0.0",
+  "description": "301-final-projectt",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Software-Artists/museum-Backend.git"
+  },
+  "author": "software-artists",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Software-Artists/museum-Backend/issues"
+  },
+  "homepage": "https://github.com/Software-Artists/museum-Backend#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "circular-json": "^0.5.9",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.6"
+  }
+}
