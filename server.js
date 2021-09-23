@@ -7,6 +7,7 @@ const mongoose = require("mongoose");
 require("dotenv").config();
 app.use(cors());
 app.use(express.json());
+const PORT = process.env.PORT;
 
 const MONGO_URL = process.env.MONGO_URL;
 mongoose.connect(MONGO_URL);
@@ -79,6 +80,6 @@ app.get("/paintings", getPainting);
 
 console.log("hi");
 
-app.listen(3020, () => {
-  console.log(`Server started on port ${3020}`);
+app.listen(PORT, () => {
+  console.log(`Server started on port ${PORT}`);
 });
